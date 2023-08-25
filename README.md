@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ana</h1>
+<h1 align="center">Hi there😊, I'm Ana</h1>
 <h3 align="center">A passionate data enthusiastic from Mexico 🇲🇽</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anxta&label=Profile%20views&color=0e75b6&style=flat" alt="anxta" /> </p>
@@ -7,7 +7,8 @@
 
 - ✨I'm currently stuyding Mechatronics Engineering ⚙️.
 - 📊I’m interested in Data Science, when it comes to data visualization and programming languages.
-- 💻 I’m currently learning **Python, SQL and R**, also I am developing soft skills, competences and knowledge in this field.
+- 💻 I’m currently learning **Python, SQL and R**, also I am developing soft skills and knowledge in this field.
+- 🥳 Fun fact: my secret hobbie is creating spotify playlists (actually not a secret anymore) 🎵
 - 📌 I’m looking to collaborate on hands on projects in data field.
 
 <h3 align="left">Connect with me:</h3>
