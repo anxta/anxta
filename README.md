@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anxta" alt="anxta" /></a> </p>
 
-- ✨I'm currently stuyding Mechatronics Engineering ⚙️.
+- ⚙️I'm currently stuyding Mechatronics Engineering.
 - 📊I’m interested in Data Science, when it comes to data visualization and programming languages.
 - 💻 I’m currently learning **Python, SQL and R**, also I am developing soft skills and knowledge in this field.
 - 🥳 Fun fact: my secret hobby is creating spotify playlists (actually not a secret anymore) 🎵
