@@ -7,7 +7,7 @@
 
 - ⚙️ I'm currently stuyding Mechatronics Engineering.
 - 📊 I’m interested in Data Science, when it comes to data visualization and programming languages.
-- 💻 I’m currently learning ___Python, SQL and R___, also I am developing soft skills and knowledge in this field.
+- 💻 At the present I'm learning ___Python, SQL and R___, also I am developing soft skills and knowledge in this field.
 - 🥳 Fun fact: my secret hobby is creating spotify playlists (actually not a secret anymore).
 - 📌 I’m looking to collaborate on hands on projects in data field.
 
