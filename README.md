@@ -1,5 +1,5 @@
 <h1 align="center">Hi there😊, I'm Ana</h1>
-<h3 align="center">A data enthusiast from Mexico 🇲🇽</h3>
+<h3 align="center"> Data & Math Enthusiast 📊 from Mexico <h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anxta&label=Profile%20views&color=0e75b6&style=flat" alt="anxta" /> </p>
 
