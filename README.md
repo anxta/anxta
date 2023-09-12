@@ -1,15 +1,15 @@
 <h1 align="center">Hi there😊, I'm Ana</h1>
-<h3 align="center"> Data & Math Enthusiast from Mexico 🌮 <h3>
+<h3 align="center"> Data & Math Enthusiast from Mexico <h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anxta&label=Profile%20views&color=0e75b6&style=flat" alt="anxta" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anxta" alt="anxta" /></a> </p>
 
-- ⚙️ I'm currently stuyding Mechatronics Engineering.
-- 📊 I’m interested in Data Science, when it comes to data visualization and programming languages.
-- 💻 At the present I'm learning ___Python, SQL and R___, also I am developing soft skills and knowledge in this field.
-- 🥳 Fun fact: my secret hobby is creating spotify playlists (actually not a secret anymore).
-- 📌 I’m looking to collaborate on hands on projects in data field.
+### ⚙️ I'm currently stuyding Mechatronics Engineering.
+### 📊 I’m interested in Data Science, when it comes to data visualization and programming languages.
+### 💻 At the present I'm learning ___Python, SQL and R___, also I am developing soft skills and knowledge in this field.
+### 🥳 Fun fact: my secret hobby is creating spotify playlists (actually not a secret anymore).
+### 📌 I’m looking to collaborate on hands on projects in data field.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
