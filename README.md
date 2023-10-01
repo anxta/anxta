@@ -4,9 +4,7 @@
 
 ![Texto alternativo](https://github.com/anxta/anxta/raw/main/banner%20%282%29.png)
 
-
- <h2 align="center" >Hi there😊, I'm Ana </h2>
- <p align="center">Data & Math Enthusiast from Mexico </p>
+ <p align="center">Data & Math Enthusiast 😊 from Mexico </p>
 <h3 align="left"> About me:  </h3>
 <p align="left"> ⚙️ I'm currently stuyding Mechatronics Engineering
 <p align="left"> 📊 I’m interested in Data Science, when it comes to data visualization and programming languages.
