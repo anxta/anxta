@@ -1,7 +1,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anxta&label=Profile%20views&color=0e75b6&style=flat" />
- 
-<p align="center">
+
+
+![Texto alternativo](https://github.com/anxta/anxta/raw/main/banner%20%282%29.png)
+
+
  <h2 align="center" >Hi there😊, I'm Ana </h2>
  <p align="center">Data & Math Enthusiast from Mexico </p>
 <h3 align="left"> About me:  </h3>
