@@ -30,6 +30,5 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anxta&show_icons=true&theme=cobalt" alt="anxta" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anxta&show_icons=true&theme=cobalt&layout=compact" alt="anxta" />
 </p>
-
